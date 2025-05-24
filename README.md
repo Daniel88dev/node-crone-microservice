@@ -13,14 +13,14 @@ A simple Node.js microservice that sends a POST request to a specified API endpo
 
 ## Requirements
 
-- Node.js (v18.17.0 or higher required for the `--experimental-strip-types` feature)
+- Node.js (v20.6.0 or higher required for the `--experimental-strip-types` feature)
 - npm or yarn
 
 ## Installation
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
+   git clone https://github.com/Daniel88dev/node-crone-microservice.git
    cd cron-microservice
    ```
 
@@ -117,4 +117,4 @@ The service logs information about:
 
 ## License
 
-ISC
+MIT
